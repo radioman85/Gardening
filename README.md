@@ -1,7 +1,7 @@
 # Gardening
 Gardening
 
-In the end of the day, our garden will be remotely controlled from home :-)
+In the end of the day (or next few years...), our garden will be remotely controlled from home :-)
 
 To clone this project:
 git clone https://github.com/radioman85/Gardening.git
