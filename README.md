@@ -38,3 +38,6 @@ sudo make install
 
 ### Install GPS3 to run "gpslogger" (from ttn-ulm-node-dragino)
 https://pypi.org/project/gps3/
+
+Follow instructions on
+https://wiki.dragino.com/index.php?title=Getting_GPS_to_work_on_Raspberry_Pi_3_Model_B
