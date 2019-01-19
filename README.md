@@ -14,6 +14,15 @@ user name: \<user name\>
 user password: \<*********\>  
 
 
+## List of Hardware
+1 Raspberry 3B+
+1 LoRa/GPS HAT for RPi v1.4 (check out http://wiki.dragino.com/index.php?title=Use_Lora/GPS_HAT_%2B_RaspberryPi_to_set_up_a_Lora_Node)
+
+
+## System Installation
+1. Get driver and example SW for LoRaWAN
+2. Get driver and example SW for GPS module
+
 ### Install TTN Sender (LoRaWAN Node on Raspberry)
 https://github.com/verschwoerhaus/ttn-ulm-node-dragino/tree/master/ttnsender
 
@@ -26,3 +35,6 @@ cd bcm2835
 make
 sudo make install
 
+
+### Install GPS3 to run "gpslogger" (from ttn-ulm-node-dragino)
+https://pypi.org/project/gps3/
